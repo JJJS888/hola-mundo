@@ -31,3 +31,9 @@ Asia es el continente más grande y poblado de la Tierra.[4] Con 44,6 millones d
 <sumary><p>Oceanía es el continente más pequeño y menos poblado de la tierra. Es un continente insular, lo que quiere decir que la mayoría de sus países no tienen fronteras o son islas. Está constituido por la plataforma continental de Australia y los archipiélagos de Melanesia, Micronesia y Polinesia. Históricamente se consideró que Insulindia también formaba parte de Oceanía.[2] Todas estas islas están distribuidas por el océano Pacífico. Con una extensión de 8 542 499 km².[1]</p></sumary>
 </details>
 
+| ***Africa*** | ***Europa*** | ***America*** | ***Asia*** | ***Oceania*** | 
+|--------------|--------------|--------------|--------------|--------------|
+| **Poblacion** | **Poblacion** | **Poblacion** | **Poblacion** | **Poblacion** |
+| 1 460 481 800 (2023 est.) hab. | 741 651 840 (2024 est.) hab.| 1 036 900 579 (2023 est.)​ hab. | 4 753 080 000 (2023 est.) hab.| 41 117 432 hab. |
+
+
