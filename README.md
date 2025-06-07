@@ -39,8 +39,8 @@ Asia es el continente más grande y poblado de la Tierra.[4] Con 44,6 millones d
 - Africa
   - Etimología
   - <p> El nombre del continente proviene del latín. Desde el siglo II a. C., los romanos llamaban África a las tierras que los griegos conocían como Libia, al oeste del Nilo y al este de los montes Atlas. El topónimo se formó con el nombre de un pueblo local, los Afri y el sufijo -ica usado para indicar un país en función de sus habitantes (como Céltica de "los celtas").</p>
- - Historia
- - <p>Se cree que África es la cuna de la humanidad y que de allí proceden las sucesivas especies de homínidos y antropoides que dieron lugar a los seres humanos. La teoría explica que allí se originó el Homo sapiens hace cerca de 300 000 años para luego expandirse por el resto de los continentes. Según el historiador griego Heródoto (484 a. C.), una expedición fenicia auspiciada por el faraón Necao II (616 a. C) circunnavegó el continente africano por primera vez.</p>
+  - Historia
+  - <p>Se cree que África es la cuna de la humanidad y que de allí proceden las sucesivas especies de homínidos y antropoides que dieron lugar a los seres humanos. La teoría explica que allí se originó el Homo sapiens hace cerca de 300 000 años para luego expandirse por el resto de los continentes. Según el historiador griego Heródoto (484 a. C.), una expedición fenicia auspiciada por el faraón Necao II (616 a. C) circunnavegó el continente africano por primera vez.</p>
   - Geografía física
   -  En su mayor parte, África es una enorme y antigua plataforma continental maciza y compacta, elevada entre 600 y 800 m s. n. m., surcada por grandes ríos (aunque pocos) y escasa en penínsulas. Destaca por su regularidad orográfica y considerable altitud media.
  
